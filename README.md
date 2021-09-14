@@ -55,8 +55,8 @@ To conclude, using Quarkus for serverless is exactly the same as using quarkus f
 ### Trying the template
 
 ```
-$ faas template pull https://github.com/pmlopes/openfaas-quarkus-native-template
-$ faas new --lang quarkus-native <fn-name>
+$ faas-cli template pull https://github.com/pmlopes/openfaas-quarkus-native-template
+$ faas-cli new --lang quarkus-native <fn-name>
 ```
 
 ### Building
